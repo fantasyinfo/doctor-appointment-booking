@@ -1,0 +1,32 @@
+Simple input and fetch data from database and display on HTML table using PHP & CSS
+
+Back end to input the details should contain: (Must have a track number)
+Patient Pic upload
+Patient Name:
+Patient illness
+Type of Treatment
+Doctor Name
+Doctor Email
+Nurse (RN) Name
+Hospital Ward Number
+Room Number
+Comments
+
+add treatment ongoing cost
+
+
+==================================
+FRONT END SHOULD OUTPUT WITH A NICE DESIGN
+Patient Pic display
+Patient Name:
+Patient illness
+Type of Treatment
+Doctor Name
+Doctor Email
+Nurse (RN) Name
+Hospital Ward Number
+Room Number
+The Comments/Remarks
+
+
+add treatment ongoing cost
